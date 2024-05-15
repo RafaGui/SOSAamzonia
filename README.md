@@ -2,7 +2,7 @@
 # Projeto SOS Amazônia
 
 Desde muito novo ouço relatos a respeito do desmatamento da Amazônia e de como estão conseguindo, aos poucos, destruir tudo o que a mãe natureza nos oferece com tanta bondade.
-Neste projeto me basiei em um site já existente cujo nome também é [SOS Amazônia](https://sosamazonia.org.br/), recomendo fortemente que deem uma olhada no site dessa isntituição que já tem feito muito pelas familias e pela floresta amazônica.
+Neste projeto me baseei em um site já existente cujo nome também é [SOS Amazônia](https://sosamazonia.org.br/), recomendo fortemente que deem uma olhada no site dessa isntituição que já tem feito muito pelas familias e pela floresta amazônica.
 
 Site totalmente responsivo e adaptável a diversas screens, segue abaixo algumas fotos do resultado do site.
 
